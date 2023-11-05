@@ -1,0 +1,8 @@
+Redéployer un smart avec : 
+  - la verif de la siganture dans le callback de chainlink
+  - check si la valeur retourné est 1 ou 0 et mint si == 1
+
+FINIR LE FRONT BOS : 
+  - appel API pour la signature
+  - mocker des addresses btc testnet (pubkey + envoyé fond)
+  - modifier le code dans le composant BOS pour matcher les addresses mocker
